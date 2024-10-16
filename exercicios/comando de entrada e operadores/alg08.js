@@ -1,5 +1,5 @@
 var vemp = parseFloat(prompt("Valor do empréstimo:"));
-var parcelas = parseFloat(prompt("Em quantas parcelas:"))
+var parcelas = parseFloat(prompt("Em quantas parcelas:"));
 
 var juros = 20;
 
