@@ -11,8 +11,8 @@ do {
 } while (cont <= n);
 
 if (contdiv === 2) {
-    document.write(`O número ${n} é primo.`)
+    document.write(`O número ${n} é primo.`);
 }
 else {
-    document.write(`O número ${n} não é primo.`)
+    document.write(`O número ${n} não é primo.`);
 }
