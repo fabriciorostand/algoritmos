@@ -11,4 +11,4 @@ for (var fibo = 2; fibo <= termosfibo; fibo++) {
 
     n1 = n2;
     n2 = proxn;
-}
+} 
